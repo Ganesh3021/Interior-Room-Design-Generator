@@ -51,7 +51,7 @@ function Emptystate() {
               alt="Image Generator"
               className="object-contain drop-shadow-xl w-72 md:w-[400px]"
             />
-            <Link href={'https://prompt-to-image-generator-theta.vercel.app/'}>
+            <Link href={'https://prompt-to-image-generator-one.vercel.app/'}>
               <button className="group relative">
                 <div className="absolute -inset-1 rounded-xl bg-gradient-to-r from-cyan-600 to-blue-600 opacity-75 blur transition duration-300 group-hover:opacity-100"></div>
                 <span className="relative flex items-center gap-3 rounded-lg bg-black px-7 py-3 leading-none w-72 h-20 justify-between">
